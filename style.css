@@ -1,0 +1,93 @@
+.navbar li{
+   position: relative; 
+    float: right;
+    color:rgb(8, 8, 8);
+    list-style: none;
+    padding: 10px;
+    
+
+}
+.navbar li a {
+    color: rgb(11, 11, 11);
+ text-decoration: none;
+ font-style: italic;
+ font-weight: bold;
+ font-size: larger;
+ justify-content: inline-block;
+}
+
+
+.carousel-inner{
+    position: relative;
+    height: 650px; 
+}
+
+.carousel-caption {
+    position:absolute;
+    top: 50%;
+}
+
+nav.navbar{
+    display: inline;
+}
+
+.sarvesh h6{
+    position: absolute;
+    font-weight: bolder;
+    color: rgb(12, 64, 18);
+    font-size: 50px;
+    top: 10px;
+    left: 90px;
+}
+
+.title{
+    background-image: url(/overview.jpg);
+    line-height:50px;
+    padding: 0px 20px;
+}
+.overview h1{
+    font-family: "Times New Roman", Times, serif;
+    color: #616157;
+    text-transform: uppercase;
+    font-size: 18pt;
+    font-weight: normal;
+}
+
+.yash{
+    position: absolute;
+   margin-left: 32cm;
+    padding: 0;
+    margin-right: 0px;
+}
+
+.yash2 pre{
+    margin-top: 30px;
+    background-color: #FFF;
+    color: #8B8B8B;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: .5cm;
+    line-height: 18px;
+}
+.title1{
+    background-image: url(/overview.jpg);
+    line-height:50px;
+    padding: 0px 20px;
+
+}
+
+.accommodation h1{
+    font-family: "Times New Roman", Times, serif;
+    color: #616157;
+    text-transform: uppercase;
+    font-size: 18pt;
+    font-weight: normal;
+
+}
+.carousel-caption d-none d-md-block h5{
+    height: 10px;
+
+
+}
+

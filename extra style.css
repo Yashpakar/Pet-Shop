@@ -1,0 +1,24 @@
+.info{
+    position: absolute;
+        right:0;
+        bottom:0;
+        z-index:-1;
+}
+@media(min-aspect-ratio:16/9){
+    .info{
+        width: 100%;
+        height: auto;
+    }
+}
+@media(max-aspect-ratio:16/9){
+    .yash2{
+        width: auto;
+        height: 100%;
+    }
+}
+.yash5{
+    font-size: 0.65cm;
+    font-style: oblique;
+    color: rgb(250, 250, 250);
+
+}
